@@ -1,7 +1,4 @@
-📝 README FOR THE REPO
-After pushing, I'll craft a README that tells the story:
 
-markdown
 # Consciousness-Resonance Bridge
 
 ### *Proving Focused Intent Outperforms Random Noise in Quantum Systems*
