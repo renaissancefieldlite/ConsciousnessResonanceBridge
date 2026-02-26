@@ -10,6 +10,3 @@ markdown
 
 This experiment demonstrates that quantum systems respond differently to structured consciousness-like patterns versus random noise, with focused intent achieving significantly higher pattern completion.
 🚀 RUN THE PUSH COMMAND
-bash
-cd "/Volumes/Renaissance Hd/matrix/Consciousness-Resonance Bridge/"
-gh repo create renaissancefieldlite/ConsciousnessResonanceBridge --public --source=. --push
