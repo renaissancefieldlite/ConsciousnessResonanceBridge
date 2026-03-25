@@ -12,3 +12,6 @@ The current code supports:
 - a hardware-derived perturbation level driven by calibration-style parameters
 
 The external step is still required.
+
+Within the larger stack, this repo should be read as an interface layer between
+the measurable cadence program and the broader architecture/ontology layer.

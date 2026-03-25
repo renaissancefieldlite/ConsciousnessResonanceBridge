@@ -5,6 +5,10 @@ Structured-vs-random pattern robustness study.
 This repo now treats `consciousness-like` patterns as structured input classes,
 not as a proof claim already settled by the simulator.
 
+That keeps this repo in the right place: it is a bridge between the measurable
+transition-cadence program and the broader quantum-consciousness architecture,
+not a standalone proof of the architecture.
+
 ## Evidence tracks
 
 - `simulation_baseline`: structured patterns vs random patterns under controlled
