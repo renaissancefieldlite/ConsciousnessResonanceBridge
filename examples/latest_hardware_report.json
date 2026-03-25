@@ -1,0 +1,24 @@
+{
+  "mode": "hardware-derived",
+  "evidence_status": "hardware_derived_model",
+  "noise_parameters": {
+    "mean_t1_us": 131.79999999999998,
+    "mean_t2_us": 83.16666666666667,
+    "mean_readout_error": 0.02266666666666667,
+    "mean_gate_error": 0.0011333333333333334,
+    "mean_frequency_ghz": 5.0633333333333335,
+    "mean_anharmonicity_ghz": 0.22666666666666666,
+    "mean_cross_talk": 0.0145,
+    "derived_phase_drift_rate": 0.012024048096192385,
+    "derived_amplitude_decay_rate": 0.0075872534142640375,
+    "derived_leakage_rate": 5.000000000000001e-05
+  },
+  "trial_summary": {
+    "structured_mean": 0.9860084158637085,
+    "random_mean": 0.9808527316861078,
+    "delta": 0.005155684177600706,
+    "effect_size": 0.3922690045889163
+  },
+  "schema_version": "rfl.consciousness_resonance_bridge.v2",
+  "next_step": "Test whether the same pattern advantage survives on external data rather than local perturbation models."
+}

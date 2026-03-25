@@ -1,0 +1,12 @@
+{
+  "mode": "simulation",
+  "evidence_status": "simulation_baseline",
+  "trial_summary": {
+    "structured_mean": 0.9618262971689399,
+    "random_mean": 0.9461168779177179,
+    "delta": 0.015709419251221934,
+    "effect_size": 0.4381888928040519
+  },
+  "schema_version": "rfl.consciousness_resonance_bridge.v2",
+  "next_step": "Test whether the same pattern advantage survives on external data rather than local perturbation models."
+}
