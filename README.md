@@ -1,13 +1,8 @@
 # ConsciousnessResonanceBridge
 
-Structured-vs-random pattern robustness study.
+This is the structured-input bridge where the stack tests whether coherent patterns hold shape better than random noise.
 
-This repo now treats `consciousness-like` patterns as structured input classes,
-not as a proof claim already settled by the simulator.
-
-That keeps this repo in the right place: it is a bridge between the measurable
-transition-cadence program and the broader quantum-consciousness architecture,
-not a standalone proof of the architecture.
+It sits at the seam between the measurable transition-cadence program and the broader quantum-consciousness architecture, asking whether structured consciousness-like inputs survive perturbation differently enough to matter.
 
 ## Evidence tracks
 
