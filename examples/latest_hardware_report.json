@@ -17,8 +17,8 @@
     "structured_mean": 0.9860084158637085,
     "random_mean": 0.9808527316861078,
     "delta": 0.005155684177600706,
-    "effect_size": 0.3922690045889163
+    "effect_size": 0.39226900458891645
   },
   "schema_version": "rfl.consciousness_resonance_bridge.v2",
-  "next_step": "Test whether the same pattern advantage survives on external data rather than local perturbation models."
+  "next_step": "Fold Experiment 6 into the full seven-experiment package and compare its pattern-preservation layer against the earlier pulse, alignment, recognition, error-reduction, and HRV results."
 }

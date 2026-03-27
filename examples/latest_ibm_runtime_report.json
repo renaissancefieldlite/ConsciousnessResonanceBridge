@@ -1,0 +1,1731 @@
+{
+  "mode": "ibm-runtime",
+  "evidence_status": "ibm_runtime_backend",
+  "backend_name": "ibm_fez",
+  "shots": 256,
+  "job_id": "d72m8epamkec73a1fhug",
+  "runtime_config": {
+    "channel": "ibm_quantum_platform",
+    "instance": null,
+    "url": "https://cloud.ibm.com"
+  },
+  "trial_summary": {
+    "structured_mean": 0.9962123043677324,
+    "random_mean": 0.9939131116923144,
+    "delta": 0.0022991926754180048,
+    "effect_size": 0.4918149081846648
+  },
+  "experiments": [
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 0,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "00": 112,
+        "11": 29,
+        "10": 48,
+        "01": 67
+      },
+      "measurement_probabilities": [
+        0.4375,
+        0.26171875,
+        0.1875,
+        0.11328125
+      ],
+      "completion_score": 0.9959602929751667
+    },
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 1,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "01": 72,
+        "00": 125,
+        "10": 28,
+        "11": 31
+      },
+      "measurement_probabilities": [
+        0.48828125,
+        0.28125,
+        0.109375,
+        0.12109375
+      ],
+      "completion_score": 0.9919771068832123
+    },
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 2,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "00": 131,
+        "10": 50,
+        "01": 56,
+        "11": 19
+      },
+      "measurement_probabilities": [
+        0.51171875,
+        0.21875,
+        0.1953125,
+        0.07421875
+      ],
+      "completion_score": 0.9962122643254192
+    },
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 3,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "01": 65,
+        "00": 127,
+        "10": 40,
+        "11": 24
+      },
+      "measurement_probabilities": [
+        0.49609375,
+        0.25390625,
+        0.15625,
+        0.09375
+      ],
+      "completion_score": 0.9999303047260208
+    },
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 4,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "00": 136,
+        "01": 56,
+        "10": 40,
+        "11": 24
+      },
+      "measurement_probabilities": [
+        0.53125,
+        0.21875,
+        0.15625,
+        0.09375
+      ],
+      "completion_score": 0.9980796698590091
+    },
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 5,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "01": 67,
+        "00": 134,
+        "11": 21,
+        "10": 34
+      },
+      "measurement_probabilities": [
+        0.5234375,
+        0.26171875,
+        0.1328125,
+        0.08203125
+      ],
+      "completion_score": 0.9978800791603865
+    },
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 6,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "00": 111,
+        "01": 67,
+        "11": 29,
+        "10": 49
+      },
+      "measurement_probabilities": [
+        0.43359375,
+        0.26171875,
+        0.19140625,
+        0.11328125
+      ],
+      "completion_score": 0.9954052898813148
+    },
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 7,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "10": 38,
+        "01": 66,
+        "00": 130,
+        "11": 22
+      },
+      "measurement_probabilities": [
+        0.5078125,
+        0.2578125,
+        0.1484375,
+        0.0859375
+      ],
+      "completion_score": 0.9995400613415314
+    },
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 8,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "00": 136,
+        "10": 42,
+        "01": 59,
+        "11": 19
+      },
+      "measurement_probabilities": [
+        0.53125,
+        0.23046875,
+        0.1640625,
+        0.07421875
+      ],
+      "completion_score": 0.9980000329197359
+    },
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 9,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "11": 15,
+        "10": 50,
+        "00": 120,
+        "01": 71
+      },
+      "measurement_probabilities": [
+        0.46875,
+        0.27734375,
+        0.1953125,
+        0.05859375
+      ],
+      "completion_score": 0.9939430208489614
+    },
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 10,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "00": 136,
+        "11": 20,
+        "01": 58,
+        "10": 42
+      },
+      "measurement_probabilities": [
+        0.53125,
+        0.2265625,
+        0.1640625,
+        0.078125
+      ],
+      "completion_score": 0.9981612848142736
+    },
+    {
+      "group": "structured",
+      "pattern": "alpha",
+      "trial": 11,
+      "target_probabilities": [
+        0.494949494949495,
+        0.25252525252525254,
+        0.16161616161616166,
+        0.09090909090909091
+      ],
+      "measurement_counts": {
+        "01": 67,
+        "00": 140,
+        "11": 25,
+        "10": 24
+      },
+      "measurement_probabilities": [
+        0.546875,
+        0.26171875,
+        0.09375,
+        0.09765625
+      ],
+      "completion_score": 0.9893475920820708
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 0,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "01": 72,
+        "00": 74,
+        "11": 37,
+        "10": 73
+      },
+      "measurement_probabilities": [
+        0.2890625,
+        0.28125,
+        0.28515625,
+        0.14453125
+      ],
+      "completion_score": 0.9938131110750175
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 1,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "10": 64,
+        "00": 94,
+        "01": 61,
+        "11": 37
+      },
+      "measurement_probabilities": [
+        0.3671875,
+        0.23828125,
+        0.25,
+        0.14453125
+      ],
+      "completion_score": 0.9995344097971117
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 2,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "11": 39,
+        "00": 101,
+        "10": 58,
+        "01": 58
+      },
+      "measurement_probabilities": [
+        0.39453125,
+        0.2265625,
+        0.2265625,
+        0.15234375
+      ],
+      "completion_score": 0.9980812450800335
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 3,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "01": 68,
+        "00": 80,
+        "11": 43,
+        "10": 65
+      },
+      "measurement_probabilities": [
+        0.3125,
+        0.265625,
+        0.25390625,
+        0.16796875
+      ],
+      "completion_score": 0.998090565514229
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 4,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "00": 70,
+        "01": 55,
+        "11": 61,
+        "10": 70
+      },
+      "measurement_probabilities": [
+        0.2734375,
+        0.21484375,
+        0.2734375,
+        0.23828125
+      ],
+      "completion_score": 0.9847424875711894
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 5,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "10": 79,
+        "00": 87,
+        "11": 34,
+        "01": 56
+      },
+      "measurement_probabilities": [
+        0.33984375,
+        0.21875,
+        0.30859375,
+        0.1328125
+      ],
+      "completion_score": 0.9944819767114687
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 6,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "01": 68,
+        "00": 101,
+        "10": 56,
+        "11": 31
+      },
+      "measurement_probabilities": [
+        0.39453125,
+        0.265625,
+        0.21875,
+        0.12109375
+      ],
+      "completion_score": 0.9953747165151151
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 7,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "00": 93,
+        "01": 63,
+        "11": 39,
+        "10": 61
+      },
+      "measurement_probabilities": [
+        0.36328125,
+        0.24609375,
+        0.23828125,
+        0.15234375
+      ],
+      "completion_score": 0.9998432607273194
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 8,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "11": 35,
+        "00": 83,
+        "10": 62,
+        "01": 76
+      },
+      "measurement_probabilities": [
+        0.32421875,
+        0.296875,
+        0.2421875,
+        0.13671875
+      ],
+      "completion_score": 0.9962146705716037
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 9,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "11": 40,
+        "00": 85,
+        "01": 68,
+        "10": 63
+      },
+      "measurement_probabilities": [
+        0.33203125,
+        0.265625,
+        0.24609375,
+        0.15625
+      ],
+      "completion_score": 0.9992666200106014
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 10,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "01": 67,
+        "10": 64,
+        "00": 89,
+        "11": 36
+      },
+      "measurement_probabilities": [
+        0.34765625,
+        0.26171875,
+        0.25,
+        0.140625
+      ],
+      "completion_score": 0.9992398552375212
+    },
+    {
+      "group": "structured",
+      "pattern": "theta",
+      "trial": 11,
+      "target_probabilities": [
+        0.3529411764705882,
+        0.24509803921568626,
+        0.24509803921568626,
+        0.1568627450980392
+      ],
+      "measurement_counts": {
+        "00": 107,
+        "01": 55,
+        "11": 39,
+        "10": 55
+      },
+      "measurement_probabilities": [
+        0.41796875,
+        0.21484375,
+        0.21484375,
+        0.15234375
+      ],
+      "completion_score": 0.9952329416376339
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 0,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 240,
+        "10": 6,
+        "01": 10
+      },
+      "measurement_probabilities": [
+        0.9375,
+        0.0390625,
+        0.0234375,
+        0.0
+      ],
+      "completion_score": 0.9968572284016598
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 1,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 238,
+        "01": 15,
+        "10": 3
+      },
+      "measurement_probabilities": [
+        0.9296875,
+        0.05859375,
+        0.01171875,
+        0.0
+      ],
+      "completion_score": 0.9975531050510358
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 2,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 246,
+        "10": 2,
+        "01": 8
+      },
+      "measurement_probabilities": [
+        0.9609375,
+        0.03125,
+        0.0078125,
+        0.0
+      ],
+      "completion_score": 0.9995575632917371
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 3,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 245,
+        "10": 3,
+        "01": 8
+      },
+      "measurement_probabilities": [
+        0.95703125,
+        0.03125,
+        0.01171875,
+        0.0
+      ],
+      "completion_score": 0.9995420043194048
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 4,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 245,
+        "01": 11
+      },
+      "measurement_probabilities": [
+        0.95703125,
+        0.04296875,
+        0.0,
+        0.0
+      ],
+      "completion_score": 0.9903473056691514
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 5,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 241,
+        "01": 11,
+        "10": 4
+      },
+      "measurement_probabilities": [
+        0.94140625,
+        0.04296875,
+        0.015625,
+        0.0
+      ],
+      "completion_score": 0.9990704796157073
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 6,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 238,
+        "01": 16,
+        "10": 2
+      },
+      "measurement_probabilities": [
+        0.9296875,
+        0.0625,
+        0.0078125,
+        0.0
+      ],
+      "completion_score": 0.996775880984749
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 7,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 244,
+        "10": 3,
+        "01": 9
+      },
+      "measurement_probabilities": [
+        0.953125,
+        0.03515625,
+        0.01171875,
+        0.0
+      ],
+      "completion_score": 0.9998271764228859
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 8,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 247,
+        "01": 8,
+        "10": 1
+      },
+      "measurement_probabilities": [
+        0.96484375,
+        0.03125,
+        0.00390625,
+        0.0
+      ],
+      "completion_score": 0.9983901504122193
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 9,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 250,
+        "01": 5,
+        "10": 1
+      },
+      "measurement_probabilities": [
+        0.9765625,
+        0.01953125,
+        0.00390625,
+        0.0
+      ],
+      "completion_score": 0.995550059534968
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 10,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 241,
+        "10": 8,
+        "01": 7
+      },
+      "measurement_probabilities": [
+        0.94140625,
+        0.02734375,
+        0.03125,
+        0.0
+      ],
+      "completion_score": 0.9928213324900015
+    },
+    {
+      "group": "structured",
+      "pattern": "focused",
+      "trial": 11,
+      "target_probabilities": [
+        0.9523809523809527,
+        0.03809523809523811,
+        0.009523809523809528,
+        0.0
+      ],
+      "measurement_counts": {
+        "00": 242,
+        "01": 14
+      },
+      "measurement_probabilities": [
+        0.9453125,
+        0.0546875,
+        0.0,
+        0.0
+      ],
+      "completion_score": 0.9889978107789006
+    },
+    {
+      "group": "random",
+      "pattern": "random_00",
+      "trial": 0,
+      "target_probabilities": [
+        0.009778386881320293,
+        0.30991182776215676,
+        0.0036665793235651917,
+        0.6766432060329581
+      ],
+      "measurement_counts": {
+        "11": 164,
+        "01": 87,
+        "00": 5
+      },
+      "measurement_probabilities": [
+        0.01953125,
+        0.33984375,
+        0.0,
+        0.640625
+      ],
+      "completion_score": 0.9934914978042447
+    },
+    {
+      "group": "random",
+      "pattern": "random_01",
+      "trial": 1,
+      "target_probabilities": [
+        0.47562521975394856,
+        0.4372518789855726,
+        0.032304109648720325,
+        0.054818791611758726
+      ],
+      "measurement_counts": {
+        "00": 121,
+        "01": 113,
+        "10": 11,
+        "11": 11
+      },
+      "measurement_probabilities": [
+        0.47265625,
+        0.44140625,
+        0.04296875,
+        0.04296875
+      ],
+      "completion_score": 0.9985061193715121
+    },
+    {
+      "group": "random",
+      "pattern": "random_02",
+      "trial": 2,
+      "target_probabilities": [
+        0.2762027697895676,
+        0.21877593715589552,
+        0.11480056046707764,
+        0.39022073258745926
+      ],
+      "measurement_counts": {
+        "01": 55,
+        "00": 87,
+        "11": 82,
+        "10": 32
+      },
+      "measurement_probabilities": [
+        0.33984375,
+        0.21484375,
+        0.125,
+        0.3203125
+      ],
+      "completion_score": 0.993033848622976
+    },
+    {
+      "group": "random",
+      "pattern": "random_03",
+      "trial": 3,
+      "target_probabilities": [
+        0.43128210651269355,
+        0.03740255877105791,
+        0.058356795251172,
+        0.47295853946507665
+      ],
+      "measurement_counts": {
+        "00": 116,
+        "11": 107,
+        "01": 16,
+        "10": 17
+      },
+      "measurement_probabilities": [
+        0.453125,
+        0.0625,
+        0.06640625,
+        0.41796875
+      ],
+      "completion_score": 0.9945751512091013
+    },
+    {
+      "group": "random",
+      "pattern": "random_04",
+      "trial": 4,
+      "target_probabilities": [
+        0.6858891911178057,
+        0.001875854789664016,
+        0.12986224624051593,
+        0.18237270785201445
+      ],
+      "measurement_counts": {
+        "00": 182,
+        "11": 44,
+        "10": 28,
+        "01": 2
+      },
+      "measurement_probabilities": [
+        0.7109375,
+        0.0078125,
+        0.109375,
+        0.171875
+      ],
+      "completion_score": 0.9967117364284748
+    },
+    {
+      "group": "random",
+      "pattern": "random_05",
+      "trial": 5,
+      "target_probabilities": [
+        0.46614472576775184,
+        0.11100386115229846,
+        0.4051517839597482,
+        0.01769962912020143
+      ],
+      "measurement_counts": {
+        "00": 104,
+        "10": 118,
+        "01": 33,
+        "11": 1
+      },
+      "measurement_probabilities": [
+        0.40625,
+        0.12890625,
+        0.4609375,
+        0.00390625
+      ],
+      "completion_score": 0.9905208478679011
+    },
+    {
+      "group": "random",
+      "pattern": "random_06",
+      "trial": 6,
+      "target_probabilities": [
+        0.04224156416315878,
+        0.45472358557572257,
+        0.14611672498886416,
+        0.3569181252722547
+      ],
+      "measurement_counts": {
+        "01": 108,
+        "11": 92,
+        "10": 42,
+        "00": 14
+      },
+      "measurement_probabilities": [
+        0.0546875,
+        0.421875,
+        0.1640625,
+        0.359375
+      ],
+      "completion_score": 0.9980591114815031
+    },
+    {
+      "group": "random",
+      "pattern": "random_07",
+      "trial": 7,
+      "target_probabilities": [
+        0.020716662083951818,
+        0.004319516021686877,
+        0.6066567677374822,
+        0.36830705415687925
+      ],
+      "measurement_counts": {
+        "10": 151,
+        "11": 87,
+        "00": 14,
+        "01": 4
+      },
+      "measurement_probabilities": [
+        0.0546875,
+        0.015625,
+        0.58984375,
+        0.33984375
+      ],
+      "completion_score": 0.9877478710032217
+    },
+    {
+      "group": "random",
+      "pattern": "random_08",
+      "trial": 8,
+      "target_probabilities": [
+        0.0004614439153835477,
+        0.08728247006883208,
+        0.811562814534856,
+        0.10069327148092853
+      ],
+      "measurement_counts": {
+        "10": 190,
+        "11": 48,
+        "01": 17,
+        "00": 1
+      },
+      "measurement_probabilities": [
+        0.00390625,
+        0.06640625,
+        0.7421875,
+        0.1875
+      ],
+      "completion_score": 0.9820404583993488
+    },
+    {
+      "group": "random",
+      "pattern": "random_09",
+      "trial": 9,
+      "target_probabilities": [
+        0.5579843134128587,
+        0.15910804084840452,
+        0.13333659123596014,
+        0.14957105450277666
+      ],
+      "measurement_counts": {
+        "01": 47,
+        "00": 133,
+        "10": 33,
+        "11": 43
+      },
+      "measurement_probabilities": [
+        0.51953125,
+        0.18359375,
+        0.12890625,
+        0.16796875
+      ],
+      "completion_score": 0.9978680876874727
+    },
+    {
+      "group": "random",
+      "pattern": "random_10",
+      "trial": 10,
+      "target_probabilities": [
+        0.0374643625151888,
+        0.4971673822773308,
+        0.12849440734317774,
+        0.3368738478643028
+      ],
+      "measurement_counts": {
+        "10": 36,
+        "11": 83,
+        "01": 118,
+        "00": 19
+      },
+      "measurement_probabilities": [
+        0.07421875,
+        0.4609375,
+        0.140625,
+        0.32421875
+      ],
+      "completion_score": 0.9927122939383435
+    },
+    {
+      "group": "random",
+      "pattern": "random_11",
+      "trial": 11,
+      "target_probabilities": [
+        0.02376257048044823,
+        0.799690779817766,
+        0.041919586263518924,
+        0.1346270634382668
+      ],
+      "measurement_counts": {
+        "01": 204,
+        "10": 10,
+        "11": 33,
+        "00": 9
+      },
+      "measurement_probabilities": [
+        0.03515625,
+        0.796875,
+        0.0390625,
+        0.12890625
+      ],
+      "completion_score": 0.9987732294856749
+    },
+    {
+      "group": "random",
+      "pattern": "random_12",
+      "trial": 12,
+      "target_probabilities": [
+        0.7205252341225983,
+        0.10581741009661626,
+        0.0001278158682714301,
+        0.17352953991251407
+      ],
+      "measurement_counts": {
+        "00": 183,
+        "01": 25,
+        "11": 48
+      },
+      "measurement_probabilities": [
+        0.71484375,
+        0.09765625,
+        0.0,
+        0.1875
+      ],
+      "completion_score": 0.9994268845165541
+    },
+    {
+      "group": "random",
+      "pattern": "random_13",
+      "trial": 13,
+      "target_probabilities": [
+        0.2520168038304145,
+        0.5223915004396784,
+        0.0937289118830456,
+        0.13186278384686143
+      ],
+      "measurement_counts": {
+        "01": 141,
+        "11": 35,
+        "00": 58,
+        "10": 22
+      },
+      "measurement_probabilities": [
+        0.2265625,
+        0.55078125,
+        0.0859375,
+        0.13671875
+      ],
+      "completion_score": 0.9987344996416815
+    },
+    {
+      "group": "random",
+      "pattern": "random_14",
+      "trial": 14,
+      "target_probabilities": [
+        0.05956015173842202,
+        0.047766260334667986,
+        0.650208931851291,
+        0.2424646560756192
+      ],
+      "measurement_counts": {
+        "10": 172,
+        "11": 60,
+        "00": 14,
+        "01": 10
+      },
+      "measurement_probabilities": [
+        0.0546875,
+        0.0390625,
+        0.671875,
+        0.234375
+      ],
+      "completion_score": 0.9992126947916586
+    },
+    {
+      "group": "random",
+      "pattern": "random_15",
+      "trial": 15,
+      "target_probabilities": [
+        0.1593818138213746,
+        0.004106960121340393,
+        0.8111106768274567,
+        0.025400549229828293
+      ],
+      "measurement_counts": {
+        "00": 45,
+        "10": 206,
+        "11": 4,
+        "01": 1
+      },
+      "measurement_probabilities": [
+        0.17578125,
+        0.00390625,
+        0.8046875,
+        0.015625
+      ],
+      "completion_score": 0.9984022326292153
+    },
+    {
+      "group": "random",
+      "pattern": "random_16",
+      "trial": 16,
+      "target_probabilities": [
+        0.0039824687285822825,
+        0.05774874688919042,
+        0.9371520142493501,
+        0.0011167701328774308
+      ],
+      "measurement_counts": {
+        "10": 230,
+        "11": 5,
+        "00": 6,
+        "01": 15
+      },
+      "measurement_probabilities": [
+        0.0234375,
+        0.05859375,
+        0.8984375,
+        0.01953125
+      ],
+      "completion_score": 0.9802818830517948
+    },
+    {
+      "group": "random",
+      "pattern": "random_17",
+      "trial": 17,
+      "target_probabilities": [
+        0.08720370628073859,
+        0.03808748439800334,
+        0.47980573043544983,
+        0.3949030788858083
+      ],
+      "measurement_counts": {
+        "10": 102,
+        "00": 26,
+        "11": 111,
+        "01": 17
+      },
+      "measurement_probabilities": [
+        0.1015625,
+        0.06640625,
+        0.3984375,
+        0.43359375
+      ],
+      "completion_score": 0.9908821024249564
+    },
+    {
+      "group": "random",
+      "pattern": "random_18",
+      "trial": 18,
+      "target_probabilities": [
+        0.39216623356057934,
+        0.12110364918474345,
+        0.10416330586110047,
+        0.3825668113935768
+      ],
+      "measurement_counts": {
+        "11": 101,
+        "10": 24,
+        "00": 98,
+        "01": 33
+      },
+      "measurement_probabilities": [
+        0.3828125,
+        0.12890625,
+        0.09375,
+        0.39453125
+      ],
+      "completion_score": 0.9994555878486062
+    },
+    {
+      "group": "random",
+      "pattern": "random_19",
+      "trial": 19,
+      "target_probabilities": [
+        0.6326213450824402,
+        0.04496841123657651,
+        0.08026659863261537,
+        0.24214364504836827
+      ],
+      "measurement_counts": {
+        "11": 62,
+        "00": 154,
+        "01": 18,
+        "10": 22
+      },
+      "measurement_probabilities": [
+        0.6015625,
+        0.0703125,
+        0.0859375,
+        0.2421875
+      ],
+      "completion_score": 0.9966946881659344
+    },
+    {
+      "group": "random",
+      "pattern": "random_20",
+      "trial": 20,
+      "target_probabilities": [
+        0.010851978487754542,
+        0.008834647894999678,
+        0.060226136085874335,
+        0.9200872375313718
+      ],
+      "measurement_counts": {
+        "11": 232,
+        "10": 16,
+        "01": 6,
+        "00": 2
+      },
+      "measurement_probabilities": [
+        0.0078125,
+        0.0234375,
+        0.0625,
+        0.90625
+      ],
+      "completion_score": 0.9961881575174529
+    },
+    {
+      "group": "random",
+      "pattern": "random_21",
+      "trial": 21,
+      "target_probabilities": [
+        5.600075765896909e-05,
+        0.2871196155685419,
+        0.28136822916137016,
+        0.43145615451242897
+      ],
+      "measurement_counts": {
+        "11": 121,
+        "10": 56,
+        "01": 79
+      },
+      "measurement_probabilities": [
+        0.0,
+        0.30859375,
+        0.21875,
+        0.47265625
+      ],
+      "completion_score": 0.9946890704377201
+    },
+    {
+      "group": "random",
+      "pattern": "random_22",
+      "trial": 22,
+      "target_probabilities": [
+        0.8330982477908228,
+        0.12471677749590276,
+        0.03335248804822508,
+        0.00883248666504932
+      ],
+      "measurement_counts": {
+        "00": 207,
+        "01": 33,
+        "10": 12,
+        "11": 4
+      },
+      "measurement_probabilities": [
+        0.80859375,
+        0.12890625,
+        0.046875,
+        0.015625
+      ],
+      "completion_score": 0.9976738640556958
+    },
+    {
+      "group": "random",
+      "pattern": "random_23",
+      "trial": 23,
+      "target_probabilities": [
+        0.0015878941793054358,
+        0.5721663734069606,
+        0.12304219629847048,
+        0.30320353611526385
+      ],
+      "measurement_counts": {
+        "01": 156,
+        "11": 65,
+        "10": 35
+      },
+      "measurement_probabilities": [
+        0.0,
+        0.609375,
+        0.13671875,
+        0.25390625
+      ],
+      "completion_score": 0.9952859761181332
+    },
+    {
+      "group": "random",
+      "pattern": "random_24",
+      "trial": 24,
+      "target_probabilities": [
+        0.00937645580525468,
+        0.0004498507983178726,
+        0.9292776398806409,
+        0.06089605351578643
+      ],
+      "measurement_counts": {
+        "10": 234,
+        "01": 3,
+        "11": 14,
+        "00": 5
+      },
+      "measurement_probabilities": [
+        0.01953125,
+        0.01171875,
+        0.9140625,
+        0.0546875
+      ],
+      "completion_score": 0.9903747328157091
+    },
+    {
+      "group": "random",
+      "pattern": "random_25",
+      "trial": 25,
+      "target_probabilities": [
+        0.00024993990326604,
+        0.8891725450524705,
+        0.016986269647861825,
+        0.09359124539640187
+      ],
+      "measurement_counts": {
+        "01": 223,
+        "10": 11,
+        "11": 20,
+        "00": 2
+      },
+      "measurement_probabilities": [
+        0.0078125,
+        0.87109375,
+        0.04296875,
+        0.078125
+      ],
+      "completion_score": 0.9880549410674415
+    },
+    {
+      "group": "random",
+      "pattern": "random_26",
+      "trial": 26,
+      "target_probabilities": [
+        0.632323961826567,
+        0.3521920017341408,
+        0.01339999229480112,
+        0.00208404414449099
+      ],
+      "measurement_counts": {
+        "01": 80,
+        "00": 174,
+        "10": 2
+      },
+      "measurement_probabilities": [
+        0.6796875,
+        0.3125,
+        0.0078125,
+        0.0
+      ],
+      "completion_score": 0.9951314307203022
+    },
+    {
+      "group": "random",
+      "pattern": "random_27",
+      "trial": 27,
+      "target_probabilities": [
+        0.09778422034059514,
+        0.15718157862294868,
+        0.00960400758475748,
+        0.735430193451699
+      ],
+      "measurement_counts": {
+        "11": 190,
+        "01": 37,
+        "10": 7,
+        "00": 22
+      },
+      "measurement_probabilities": [
+        0.0859375,
+        0.14453125,
+        0.02734375,
+        0.7421875
+      ],
+      "completion_score": 0.9948063510856308
+    },
+    {
+      "group": "random",
+      "pattern": "random_28",
+      "trial": 28,
+      "target_probabilities": [
+        0.5808986921712473,
+        0.15585419637972467,
+        0.007793386392469768,
+        0.25545372505655856
+      ],
+      "measurement_counts": {
+        "11": 80,
+        "00": 128,
+        "01": 46,
+        "10": 2
+      },
+      "measurement_probabilities": [
+        0.5,
+        0.1796875,
+        0.0078125,
+        0.3125
+      ],
+      "completion_score": 0.9932600655915578
+    },
+    {
+      "group": "random",
+      "pattern": "random_29",
+      "trial": 29,
+      "target_probabilities": [
+        0.18712454047251392,
+        0.43088962979348083,
+        0.338421733181218,
+        0.0435640965527874
+      ],
+      "measurement_counts": {
+        "10": 91,
+        "00": 43,
+        "01": 110,
+        "11": 12
+      },
+      "measurement_probabilities": [
+        0.16796875,
+        0.4296875,
+        0.35546875,
+        0.046875
+      ],
+      "completion_score": 0.9992121956531811
+    },
+    {
+      "group": "random",
+      "pattern": "random_30",
+      "trial": 30,
+      "target_probabilities": [
+        0.05713243873824258,
+        0.7101025638270335,
+        0.18877402971900714,
+        0.04399096771571683
+      ],
+      "measurement_counts": {
+        "01": 169,
+        "11": 12,
+        "10": 46,
+        "00": 29
+      },
+      "measurement_probabilities": [
+        0.11328125,
+        0.66015625,
+        0.1796875,
+        0.046875
+      ],
+      "completion_score": 0.989443805461739
+    },
+    {
+      "group": "random",
+      "pattern": "random_31",
+      "trial": 31,
+      "target_probabilities": [
+        0.771986081328147,
+        0.10022422043210315,
+        0.018869819967613496,
+        0.10891987827213638
+      ],
+      "measurement_counts": {
+        "01": 35,
+        "00": 194,
+        "11": 25,
+        "10": 2
+      },
+      "measurement_probabilities": [
+        0.7578125,
+        0.13671875,
+        0.0078125,
+        0.09765625
+      ],
+      "completion_score": 0.9944085618878737
+    },
+    {
+      "group": "random",
+      "pattern": "random_32",
+      "trial": 32,
+      "target_probabilities": [
+        0.037897859248949554,
+        0.04264419323160293,
+        0.32895564043669684,
+        0.590502307082751
+      ],
+      "measurement_counts": {
+        "10": 86,
+        "11": 138,
+        "01": 22,
+        "00": 10
+      },
+      "measurement_probabilities": [
+        0.0390625,
+        0.0859375,
+        0.3359375,
+        0.5390625
+      ],
+      "completion_score": 0.9912941029959206
+    },
+    {
+      "group": "random",
+      "pattern": "random_33",
+      "trial": 33,
+      "target_probabilities": [
+        0.5016956186079381,
+        0.0012517466507392116,
+        0.001620249880694505,
+        0.49543238486062807
+      ],
+      "measurement_counts": {
+        "11": 126,
+        "00": 119,
+        "10": 7,
+        "01": 4
+      },
+      "measurement_probabilities": [
+        0.46484375,
+        0.015625,
+        0.02734375,
+        0.4921875
+      ],
+      "completion_score": 0.9757570821095847
+    },
+    {
+      "group": "random",
+      "pattern": "random_34",
+      "trial": 34,
+      "target_probabilities": [
+        0.21443965254071692,
+        0.563399699398184,
+        0.151039431615488,
+        0.07112121644561151
+      ],
+      "measurement_counts": {
+        "00": 51,
+        "01": 152,
+        "11": 17,
+        "10": 36
+      },
+      "measurement_probabilities": [
+        0.19921875,
+        0.59375,
+        0.140625,
+        0.06640625
+      ],
+      "completion_score": 0.9990551655863945
+    },
+    {
+      "group": "random",
+      "pattern": "random_35",
+      "trial": 35,
+      "target_probabilities": [
+        0.021670398344370803,
+        0.34472141451806476,
+        0.001727088627494498,
+        0.6318810985100703
+      ],
+      "measurement_counts": {
+        "11": 166,
+        "01": 83,
+        "00": 6,
+        "10": 1
+      },
+      "measurement_probabilities": [
+        0.0234375,
+        0.32421875,
+        0.00390625,
+        0.6484375
+      ],
+      "completion_score": 0.9991056914488067
+    }
+  ],
+  "schema_version": "rfl.consciousness_resonance_bridge.v2",
+  "next_step": "Fold Experiment 6 into the full seven-experiment package and compare its pattern-preservation layer against the earlier pulse, alignment, recognition, error-reduction, and HRV results."
+}

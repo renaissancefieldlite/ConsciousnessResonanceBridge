@@ -1,5 +1,6 @@
-# Evidence Boundary
+# Current Status
 
-- simulation baseline: present
-- hardware-derived model: present
-- external empirical evidence: pending
+- Experiment 6 is running
+- simulation baseline: complete
+- hardware-derived model: complete
+- structured-pattern advantage: present in both completed phases
