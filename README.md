@@ -1,4 +1,4 @@
-# ConsciousnessResonanceBridge
+# Experiment 6: ConsciousnessResonanceBridge
 
 This repository is **Experiment 6** in the seven-experiment Renaissance Field Lite stack.
 
