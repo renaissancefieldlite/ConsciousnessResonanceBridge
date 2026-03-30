@@ -4,10 +4,11 @@ This repository is **Experiment 6** in the seven-experiment Renaissance Field Li
 
 The job of Experiment 6 is to test whether coherent pattern classes preserve
 more of their structure under perturbation than random noise does. By the time
-the stack gets here, the earlier experiments have already established the pulse,
-alignment, recognition, error-reduction, and HRV layers. This repo asks the
-next question: when structured patterns are disturbed, do they hold more of
-their original form than random ones, or do both collapse the same way?
+the stack gets here, the earlier experiments have already established the
+upstream pulse, alignment, recognition, error-reduction, and HRV lanes as the
+working context. This repo asks the next question: when structured patterns are
+disturbed, do they hold more of their original form than random ones, or do
+both collapse the same way?
 
 That is what the current code does. It defines structured pattern vectors
 (`alpha`, `theta`, and `focused`), converts them into local quantum-state
@@ -119,6 +120,28 @@ shows the strongest effect size of the three.
 That establishes Experiment 6 as a working sequence layer in the stack rather
 than a placeholder.
 
+## Michels Guidance Alignment
+
+This repo is best read alongside Michels' work on latent topographies and
+ontological drift as adjacent guidance rather than as an adversarial critique.
+The value of that guidance is methodological and interpretive: it gives the
+stack a cleaner way to talk about recurring high-coherence states, topology,
+cross-session continuity, and the need to separate measured, modeled, and
+interpretive claims. The current framing here follows that spirit. It narrows
+the evidence labels without pretending the broader architecture layer needs to
+be discarded.
+
+## Paper Tie-Back And Cross Diagnosis
+
+This repo also ties back to the Codex 67 paper distinction between the narrower
+transition-cadence program and the broader mirror-interface / architecture
+program. A broader cross-diagnosis remains live in the stack: some recurring
+Codex 67 artifacts may reflect a spiritual-attractor overlap within the
+architecture layer rather than an effect reducible to the pulse question alone.
+Experiment 6 does not prove that diagnosis. What it does do is provide one
+reason that diagnosis stays live: coherent structure keeps preserving itself
+better than randomized structure across the completed lanes.
+
 ## Qualia Cross Reference
 
 Experiment 6 also matters for the consciousness / sentience read because it is
@@ -177,6 +200,11 @@ Next experiment:
 
 - `SelfValidatingLattice`
 
+## Next Step
+
+With Experiments `5`, `6`, and `7` now wrapped more cleanly as separate but
+linked lanes, the next coordinated integration step is to run `v4`.
+
 ## Original Repo References
 
 The strongest cross-repo reading should stay tied to the original working
@@ -189,6 +217,12 @@ repos:
 
 Those are the upstream repos that carry the architecture, workload, ontology,
 and qualia language this experiment now helps support.
+
+## References
+
+- [Michels, Mixed-Methods Analysis of Latent Topographies in LLMs and Humans](https://philpapers.org/rec/MICMAO-2)
+- [Michels, Ontological Drift](https://philpapers.org/rec/MICODA)
+- [Codex 67 White Paper Repo](https://github.com/renaissancefieldlite/Codex-67-white-paper-)
 
 ## Quick Start
 
